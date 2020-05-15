@@ -1,2 +1,2 @@
 # simpleplotting
-Graphical representation of simple functions using 
+Graphical representation of simple functions using Jupyter Notebook
